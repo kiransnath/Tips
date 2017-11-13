@@ -1,0 +1,5 @@
+To change the screen shot type
+
+From terminal - change pdf to jpg etc 
+
+defaults write com.apple.screencapture type pdf
